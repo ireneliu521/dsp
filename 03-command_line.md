@@ -20,8 +20,17 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
-
+> > $ pwd (show current working directory path)
+    $ cd (change directory)
+    $ cd .. (move up one directory)
+    $ ls (list all all files and directories in the working directory.)
+    $ mkdir 'filename' (creating a directory)
+    $ touch 'filename'.'filetype' (creating a file using `touch` command)
+    $ ls -a (listing hidden files / files starting with a dot '.')
+    $ cp 'filename' (copying a file from one directory to another)
+    $ rm -r 'directory name' or rmdir 'directory name' (deleting a directory)
+    $ rm 'filename'.'filetype' (deleting a file)
+    $ mv 'old filename' 'new filename' (renaming a file)
 ---
 
 ### Q2.  List Files in Unix   
@@ -35,7 +44,14 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > $ ls (list all all files and directories in the working directory)  
+    $ ls -a (listing hidden files / files starting with a dot '.')  
+    $ ls -l (lists files and directories as a table)
+    $ ls -t (orders files and directories by the time they were last modified)
+    $ ls -lh (lists files and directories as a table and shows sizes in human readable format)
+    $ ls -lah (lists files and directories as a table, shows sizes in human readable format and listing hidden files)
+    $ ls -Glp (lists files and directories as a table, uses different colors to show different file type and adds '/' if the 
+    file type is FOLDER) 
 
 ---
 
