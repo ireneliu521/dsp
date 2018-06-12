@@ -45,7 +45,7 @@ What do the following commands do:
 `ls -Glp`  
 
 > > $ ls (list all all files and directories in the working directory)  
-    $ ls -a (listing hidden files / files starting with a dot '.')  
+    $ ls -a (lists hidden files / files starting with a dot '.')  
     $ ls -l (lists files and directories as a table)  
     $ ls -t (orders files and directories by the time they were last modified)  
     $ ls -lh (lists files and directories as a table and shows sizes in human readable format)  
@@ -59,7 +59,11 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > $ ls -1 (shows single entry per line)  
+    $ ls -ld (shows only the details of directory instead of all files)  
+    $ ls -lt (orders files based on last modified time)
+    $ ls -ltr (orders files based on last modified time - In Reverse Order) 
+    $ ls -F (classifies the file with different special character for different kind of files)
 
 ---
 
@@ -67,7 +71,6 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
-
+> > The xargs command is a command line utility for building an execution pipeline from standard input. For example, if we want to create three folders named 'a', 'b', 'c', we can use xargs command to do so and the code is as follows.
  
 
