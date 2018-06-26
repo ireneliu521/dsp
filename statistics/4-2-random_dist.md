@@ -6,6 +6,7 @@
 >>
 >> thinkplot.Pmf(pmf,linewidth=0.1)  
 >> thinkplot.Config(xlabel='Random variate', ylabel='PMF')  
->>
+>> <img src="img/4-2_a.png">  
 >> thinkplot.Cdf(cdf)  
->> thinkplot.Config(xlabel='Random variate', ylabel='CDF')
+>> thinkplot.Config(xlabel='Random variate', ylabel='CDF')  
+>> <img src="img/4-2_b.png">
