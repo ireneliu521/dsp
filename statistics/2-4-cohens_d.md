@@ -7,5 +7,5 @@
 >> pooled_var = (n1 * var1 + n2 * var2) / (n1 + n2)  
 >> d = diff / np.sqrt(pooled_var)  
 >> d = -0.088672927072602  
-
+>>
 >> The difference in birth weight is 0.089 standard deviation. Different from the difference in pregnancy length, the effect size of birth weight is negative, which indicates the mean of non-first-babies is larger than the mean of first babies.
