@@ -8,6 +8,6 @@
 >> thinkplot.Show(xlabel='class size', ylabel='PMF')  
 >>
 >> pmf.Mean()  
->> 1.0242051550438309 . 
+>> 1.0242051550438309  
 >> biased_pmf.Mean()  
 >> 2.4036791006642821
