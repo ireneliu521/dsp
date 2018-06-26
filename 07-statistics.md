@@ -102,7 +102,7 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> The difference between the two frameworks is how they interpret the concept of probability. The frequentist definition of probability is based on long-term frequencies and they only consider repeatable random events to have probability such as coin flipping. However, Bayesians utilize prior probability and likelihood to calculate posterior probability.
+>> The difference between the two frameworks is how they interpret the concept of probability. The frequentist definition of probability is based on long-term frequencies and they only consider repeatable random events to have probability such as coin flipping. However, Bayesians utilize prior probabilities and likelihood to calculate posterior probabilities.
 
 ---
 
