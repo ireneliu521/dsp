@@ -6,7 +6,7 @@
 >> thinkplot.PrePlot(2)  
 >> thinkplot.Pmfs([pmf, biased_pmf])  
 >> thinkplot.Show(xlabel='class size', ylabel='PMF')  
->> <img src="img/3-1.png">
+>> [<img src="img/3-1.png">]  
 >> pmf.Mean()  
 >> 1.0242051550438309  
 >> biased_pmf.Mean()  
